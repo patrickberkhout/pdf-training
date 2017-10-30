@@ -1,0 +1,6 @@
+target
+.settings
+.project
+*.swp
+.classpath
+no_source_control
